@@ -1,0 +1,15 @@
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\bin\Debug\net6.0\Lesson9_Task64.exe
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\bin\Debug\net6.0\Lesson9_Task64.deps.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\bin\Debug\net6.0\Lesson9_Task64.runtimeconfig.json
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\bin\Debug\net6.0\Lesson9_Task64.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\bin\Debug\net6.0\Lesson9_Task64.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.csproj.AssemblyReference.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.AssemblyInfoInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.AssemblyInfo.cs
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.csproj.CoreCompileInputs.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\refint\Lesson9_Task64.dll
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.pdb
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\Lesson9_Task64.genruntimeconfig.cache
+C:\Users\Илья\OneDrive\Рабочий стол\GB_Sem_Less9\Lesson9_Task64\obj\Debug\net6.0\ref\Lesson9_Task64.dll
